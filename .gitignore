@@ -40,9 +40,7 @@ http://dmi3y-tv.ru/hls/okko/CH_TNTHD.m3u8
 #EXTINF:-1,ТНТ Пермь
 https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TNT_RTRS_PERM/variant.m3u8
 #EXTINF:-1,Дом кино
-http://cdntv.online/high/u56z4n7mf2/111.m3u8
-#EXTINF:-1,Дом кино (еще)
-http://45.94.219.9:8081/stream/test59/hls/playlist.m3u8
+http://api.peers.tv/timeshift/dom_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE2Njk5NzQ1NTUsImlhdCI6MTY2OTg4ODE1NSwiY2lkIjo2LCJ1aWQiOjU0NTQ4OTAyNiwicmVnIjpmYWxzZSwiaXAiOjc2NDY1ODk2NH0.HJczopGKG-18s6MZihGbFkbPzLGMM7WFfyP_LHlIDZ0&offset=13
 #EXTINF:-1,Дом кино (еще)
 https://sc.id-tv.kz/DomKino.m3u8
 #EXTINF:-1,Че
