@@ -39,14 +39,14 @@ https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_MIR_RTRS_PERM/variant.m3u8
 http://dmi3y-tv.ru/hls/okko/CH_TNTHD.m3u8
 #EXTINF:-1,ТНТ Пермь
 https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TNT_RTRS_PERM/variant.m3u8
-#EXTINF:-1,Дом кино
+#EXTINF:-1,Дом кино id218
 http://api.peers.tv/timeshift/dom_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE2NzAwNzc3ODcsImlhdCI6MTY2OTk5MTM4NywiY2lkIjo2LCJ1aWQiOjU0NTY0Njc5NiwicmVnIjpmYWxzZSwiaXAiOjc2NDY1ODk2NH0.x6zaZtjyaGTdqZ4tI-gZsQpHXTTVMs02ll_x0fykoas&offset=13
 #EXTINF:-1,Дом кино (еще)
 https://sc.id-tv.kz/DomKino.m3u8
 #EXTINF:-1,Че
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/bw2000000/variant.m3u8
 #EXTINF:-1,Че (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/bw2000000/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_2/bw2000000/variant.m3u8
 #EXTINF:-1,Суббота HD
 http://85.112.114.11:8088/udp/238.2.49.249:1234
 #EXTINF:-1,Суббота (+2)
