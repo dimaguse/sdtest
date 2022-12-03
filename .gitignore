@@ -43,6 +43,8 @@ https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TNT_RTRS_PERM/variant.
 https://s21885.glaz.tv:8082/liveg/domkino.stream/chunks.m3u8?nimblesessionid=427694522&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMy8yMDIyIDI6MzY6NTQgUE0maGFzaF92YWx1ZT1yeE9LMEpKOW5CUk9Ba0tIUzhLTjVBPT0mdmFsaWRtaW51dGVzPTIwMA
 #EXTINF:-1,Дом кино (1)
 http://50.7.120.164:8081/domkino/index.m3u8?wmsAuthSign=778af03601ffd07ac27405606a96d414-1670096445-58i97i041i5
+#EXTINF:-1,Дом Кино (2)
+http://77.220.215.85:8081/play/dom-kino-channel/chunks.m3u8?nimblesessionid=19181&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMy8yMDIyIDQ6MDU6MDQgUE0maGFzaF92YWx1ZT1XQ2ZOajF2V2huUzhyNWtmbzNEM1Z3PT0mdmFsaWRtaW51dGVzPTU
 #EXTINF:-1,Че
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/bw2000000/variant.m3u8
 #EXTINF:-1,Че (+2)
